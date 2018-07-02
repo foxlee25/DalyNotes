@@ -1,0 +1,11 @@
+6-18
+
+- make final apk for Hog
+- setup and tesing on hot-android
+
+
+
+java -jar signapk.jar platform.x509.pem platform.pk8 app.apk hoofoo.apk
+
+- 黑色自动对焦， 白色的是非自动对焦
+- 30万 ， 500万 像素
